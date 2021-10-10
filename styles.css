@@ -28,7 +28,7 @@ a:visited{
 }
 
 .bodyimg{
-    position: absolute;
+    position: relative;
 }
 .bodyimg p{
     color:#f7f2f2;
@@ -46,7 +46,7 @@ a:visited{
     width: 1600px;
     position: absolute;
     top:40%;
-    left:80%;
+    left:45%;
     transform: translate(-40%, -40%);
 }
 .grid{
@@ -57,7 +57,7 @@ a:visited{
     
 }
 .grid img{
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 50px;
 }
 .origami {
